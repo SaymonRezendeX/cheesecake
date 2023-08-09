@@ -18,7 +18,7 @@ Este é um projeto para dar consolidar os conhecimentos sobre responsividade, ex
 <br>
 
 <p align="center">
-  <img alt="Imagem do Projeto" src="Image/projeto.png" width="100%">
+  <img alt="Imagem do Projeto" src="image/projeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
