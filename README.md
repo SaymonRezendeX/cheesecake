@@ -35,9 +35,10 @@ O objetivo desse projeto é criar toda a estrutura do projeto de uma forma respo
 
 <strong>1º /</strong> Fiz a estrutura HTML. <br>
 <strong>2º /</strong> Estilizei todo o projeto no CSS para dispotivos móveis. <br>
-<strong>3º /</strong> Ajustei as configurações de responsividade para tamanhos de telas como Laptop acima.
+<strong>3º /</strong> Ajustei as configurações de responsividade para tamanhos de telas como Laptop acima.<br>
+<strong>4º /</strong> Emplementando Clamp para as fontes e adicionei o background personalizado para pc.
 
- ( Projeto em andamento⌚)
+ ( Projeto Concluído ✅ )
 
 - [Visite o Projeto Online](http://SaymonRezendeX.github.io/cheesecake)
 

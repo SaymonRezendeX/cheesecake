@@ -43,8 +43,8 @@ button {
 
 h1, h2 {
   /* clamp(min, ideal, alto)*/
-  font-size: 2.8rem;
-
+  font-size: clamp(2.8rem, 2vw + 1rem, 4rem);
+  line-height: clamp(3.6rem, 2vw + 1rem, 5rem);
 }
 
 h2 {
@@ -52,7 +52,8 @@ h2 {
 }
 
 p, li, strong {
-  font-size: 1.4rem;
+  font-size: clamp(1.4rem, 1vw + 0.4rem, 2rem);
+  line-height:  clamp(1.8rem, 1vw + 1rem, 2.5rem);
 }
 
 
@@ -69,6 +70,7 @@ ul {
 
   body {
     padding: 9rem 14rem;
+    background: url(image/backgroundpc.png);
   }
 
   main {
@@ -84,16 +86,6 @@ ul {
   .ingredients {
     max-width: 52.5rem;
   }
-
-  /*h1, h2 {
-    font-size: 4rem;
-    line-height: 5rem;
-  }
-
-  p, li, strong {
-    font-size: 2rem;
-    line-height: 2.5rem;
-  } */
 
   button {
     font-size: 1.4rem;
