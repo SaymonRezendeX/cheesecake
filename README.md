@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O objetivo desse projeto é criar toda a estrutura do projeto de uma forma responsiva:
 
-<strong>1º /</strong> Fiz a estrutura HTML para dispotivos móveis. <br>
-<!--<strong>2º /</strong> Estilizei todo o projeto no CSS. <br>-->
-<!--<strong>3º /</strong> Ajustei as configurações de responsividade para tamanhos de telas acima de 700px.-->
+<strong>1º /</strong> Fiz a estrutura HTML. <br>
+<strong>2º /</strong> Estilizei todo o projeto no CSS para dispotivos móveis. <br>
+<strong>3º /</strong> Ajustei as configurações de responsividade para tamanhos de telas como Laptop acima.
 
  ( Projeto em andamento⌚)
 
